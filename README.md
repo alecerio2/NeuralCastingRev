@@ -15,7 +15,7 @@ For the setup of *Neural Casting*, use the following procedure:
 
 1. Clone the repository:
 ```shell
-git clone git@github.com:alecerio/NeuralCasting.git
+git clone git@github.com:[removed for double blind review]
 cd NeuralCasting
 ```
 
